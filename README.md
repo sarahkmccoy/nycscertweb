@@ -8,6 +8,7 @@ This assignment...
 
 ## Favorite Program from Programming
 [SuperArray](https://github.com/hunter-teacher-cert/cohort-3-summer-work-sarahkmccoy/tree/master/programming/6/sa)
+
 ## Favorite Program from Data Structures
 [SortSearch](https://github.com/hunter-teacher-cert/cohort-3-summer-work-sarahkmccoy/blob/master/ds/Sorting/SortSearch.java)
 
