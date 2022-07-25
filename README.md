@@ -10,7 +10,7 @@ This assignment...
 [SuperArray](https://www.example.com](https://github.com/hunter-teacher-cert/cohort-3-summer-work-sarahkmccoy/blob/master/programming/6/sa/SuperArray.java))
 
 ## Favorite Program from Data Structures
-[SortSearch] (https://github.com/hunter-teacher-cert/cohort-3-summer-work-sarahkmccoy/blob/master/ds/Sorting/SortSearch.java))
+[SortSearch](https://github.com/hunter-teacher-cert/cohort-3-summer-work-sarahkmccoy/blob/master/ds/Sorting/SortSearch.java))
 
 ## Favorite Product from Methods
-[ForLoops lesson with kinesthetic] (https://github.com/hunter-teacher-cert/cohort-3-summer-work-sarahkmccoy/blob/master/methods/01_Lesson.pdf))
+[ForLoops lesson with kinesthetic](https://github.com/hunter-teacher-cert/cohort-3-summer-work-sarahkmccoy/blob/master/methods/01_Lesson.pdf))
